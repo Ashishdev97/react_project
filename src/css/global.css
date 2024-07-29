@@ -1,0 +1,6 @@
+/** @format */
+
+.common_flex {
+  display: flex;
+  justify-content: space-evenly;
+}
